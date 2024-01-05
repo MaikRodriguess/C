@@ -1,2 +1,2 @@
 # C
- Codigos em C
+ Códigos c de exercicios da faculdade
